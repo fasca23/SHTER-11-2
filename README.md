@@ -43,6 +43,8 @@
 РЕШЕНИЕ
 
 Рис 1.0
+![1 0](https://github.com/user-attachments/assets/74f7ac54-6d5e-4512-869e-7c4da40790df)
+
 1. Исправил ошибку - "~/authorized_key.json" - лишняя точка в пути к файлу
 2. Прописал в variable "vms_ssh_root_key" - открытый ключ ssh
 3. Добавил в resource "yandex_compute_instance" "platform" - zone        = var.default_zone
@@ -50,9 +52,13 @@
 5. Неправильный процент ядра исправил - core_fraction = 20
 6. Исправил количество ядер - cores         = 2
 Рис 1.1
+![1 1](https://github.com/user-attachments/assets/d536acf8-6116-4a77-9000-e50b95c12f69)
+
 Рис 1.2
-7. ```preemptible = true``` -- создаем ВМ прерываемую, т.е. она может быть остановлена Яндекс облаком в любой момент (обычно все-таки через день) -- получается намного дешевле
-8. ```core_fraction=5``` -- означает процент выделения процессорного времени на 1 ядро -- тоже дешевле
+![1 2](https://github.com/user-attachments/assets/7486eab7-b9e3-4f1f-87d8-b9b5c0ee6c3c)
+
+8. ```preemptible = true``` -- создаем ВМ прерываемую, т.е. она может быть остановлена Яндекс облаком в любой момент (обычно все-таки через день) -- получается намного дешевле
+9. ```core_fraction=5``` -- означает процент выделения процессорного времени на 1 ядро -- тоже дешевле
 
 
 ### Задание 2
@@ -77,6 +83,7 @@
 РЕШЕНИЕ
 
 Рис 3.0
+![3 0](https://github.com/user-attachments/assets/dfd2b8ef-142c-4f60-875b-5fde844c3e57)
 
 
 ### Задание 4
@@ -89,7 +96,11 @@
 РЕШЕНИЕ
 
 Рис 4.0
+![4 0](https://github.com/user-attachments/assets/6c785c5d-d88f-4b96-8fea-a2729f702040)
+
 Рис 4.1
+![4 1](https://github.com/user-attachments/assets/88833052-044f-4c5f-a0f2-63f2016dd310)
+
 
 ### Задание 5
 
@@ -100,7 +111,7 @@
 РЕШЕНИЕ
 
 Рис 5.0
-
+![5 0](https://github.com/user-attachments/assets/300957a8-7d0c-4976-bd7e-5e66b21ece01)
 
 ### Задание 6
 
@@ -141,7 +152,10 @@
 РЕШЕНИЕ
 
 Рис 6.0
+![6 0](https://github.com/user-attachments/assets/dfff2bc5-bae7-4138-af04-7e4fcedb523d)
+
 Рис 6.1
+![6 1](https://github.com/user-attachments/assets/4f18d402-4ab2-41d7-b8f6-cfc0b629d709)
 
 ------
 
@@ -168,6 +182,7 @@
 РЕШЕНИЕ
 
 Рис 7.0
+![7 0](https://github.com/user-attachments/assets/cd9e00b9-9c86-4cb7-8137-deab1a015228)
 
 ------
 
@@ -200,7 +215,12 @@ test = [
 РЕШЕНИЕ
 
 Рис 8.0
+![8 0](https://github.com/user-attachments/assets/30346609-c488-4b20-bdcc-c7736e6a038a)
+
 Рис 8.1
+![8 1](https://github.com/user-attachments/assets/209841cf-2676-488e-81e9-8b371e491ea1)
+
+
 ------
 
 ### Задание 9*
