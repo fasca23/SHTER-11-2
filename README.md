@@ -55,6 +55,7 @@
 Рис 1.1
 ![1 1](https://github.com/user-attachments/assets/d536acf8-6116-4a77-9000-e50b95c12f69)
 
+
 Рис 1.2
 ![1 2](https://github.com/user-attachments/assets/7486eab7-b9e3-4f1f-87d8-b9b5c0ee6c3c)
 
@@ -98,6 +99,7 @@
 
 Рис 4.0
 ![4 0](https://github.com/user-attachments/assets/6c785c5d-d88f-4b96-8fea-a2729f702040)
+
 
 Рис 4.1
 ![4 1](https://github.com/user-attachments/assets/88833052-044f-4c5f-a0f2-63f2016dd310)
@@ -154,6 +156,7 @@
 
 Рис 6.0
 ![6 0](https://github.com/user-attachments/assets/dfff2bc5-bae7-4138-af04-7e4fcedb523d)
+
 
 Рис 6.1
 ![6 1](https://github.com/user-attachments/assets/4f18d402-4ab2-41d7-b8f6-cfc0b629d709)
@@ -217,6 +220,7 @@ test = [
 
 Рис 8.0
 ![8 0](https://github.com/user-attachments/assets/30346609-c488-4b20-bdcc-c7736e6a038a)
+
 
 Рис 8.1
 ![8 1](https://github.com/user-attachments/assets/209841cf-2676-488e-81e9-8b371e491ea1)
